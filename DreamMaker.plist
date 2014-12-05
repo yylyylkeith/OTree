@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.28.168.63:8081/APIServer/file/DreamMakerV2.ipa</string>
+					<string>http://115.28.168.63:8081/APIServer/file/DreamMaker.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zhijiatech.O-TreeTest</string>
+				<string>com.zhijiatech.DreamMaker</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
