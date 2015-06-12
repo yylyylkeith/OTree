@@ -11,23 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.28.168.63:8081/APIServer/file/OTree.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://115.28.168.63:8081/APIServer/file/OTreeIcon@2x.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://115.28.168.63:8081/APIServer/file/OTreeIcon.png</string>
+					<string>http://115.28.168.63:8081/APIServer/file/HotWaterBag.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
