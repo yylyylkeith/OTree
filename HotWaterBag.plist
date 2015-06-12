@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.zhijiatech.zhihe</string>
 				<key>bundle-version</key>
-				<string>1.2.4</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>OTree</string>
+				<string>HotWater</string>
 			</dict>
 		</dict>
 	</array>
